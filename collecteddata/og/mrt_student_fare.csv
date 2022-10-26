@@ -1,0 +1,45 @@
+time,distance,fare
+Before 7.45am  (Weekdays excluding public holidays),Up to 3.2 km,45
+Before 7.45am  (Weekdays excluding public holidays),3.3 km - 4.2 km,55
+Before 7.45am  (Weekdays excluding public holidays),4.3 km - 5.2 km,65
+Before 7.45am  (Weekdays excluding public holidays),5.3 km - 6.2 km,75
+Before 7.45am  (Weekdays excluding public holidays),6.3 km - 7.2 km,84
+Before 7.45am  (Weekdays excluding public holidays),7.3 km - 8.2 km,91
+Before 7.45am  (Weekdays excluding public holidays),8.3 km - 9.2 km,97
+Before 7.45am  (Weekdays excluding public holidays),9.3 km - 10.2 km,101
+Before 7.45am  (Weekdays excluding public holidays),10.3 km - 11.2 km,105
+Before 7.45am  (Weekdays excluding public holidays),11.3 km - 12.2 km,109
+Before 7.45am  (Weekdays excluding public holidays),12.3 km - 13.2 km,113
+Before 7.45am  (Weekdays excluding public holidays),13.3 km - 14.2 km,117
+Before 7.45am  (Weekdays excluding public holidays),14.3 km - 15.2 km,122
+Before 7.45am  (Weekdays excluding public holidays),15.3 km - 16.2 km,126
+Before 7.45am  (Weekdays excluding public holidays),16.3 km - 17.2 km,130
+Before 7.45am  (Weekdays excluding public holidays),17.3 km - 18.2 km,134
+Before 7.45am  (Weekdays excluding public holidays),18.3 km - 19.2 km,138
+Before 7.45am  (Weekdays excluding public holidays),19.3 km - 20.2 km,141
+Before 7.45am  (Weekdays excluding public holidays),20.3 km - 21.2 km,144
+Before 7.45am  (Weekdays excluding public holidays),21.3 km - 22.2 km,147
+Before 7.45am  (Weekdays excluding public holidays),22.3 km - 23.2 km,150
+Before 7.45am  (Weekdays excluding public holidays),23.3km and above,152
+All other timings,Up to 3.2 km,95
+All other timings,3.3 km - 4.2 km,105
+All other timings,4.3 km - 5.2 km,115
+All other timings,5.3 km - 6.2 km,125
+All other timings,6.3 km - 7.2 km,134
+All other timings,7.3 km - 8.2 km,141
+All other timings,8.3 km - 9.2 km,147
+All other timings,9.3 km - 10.2 km,151
+All other timings,10.3 km - 11.2 km,155
+All other timings,11.3 km - 12.2 km,159
+All other timings,12.3 km - 13.2 km,163
+All other timings,13.3 km - 14.2 km,167
+All other timings,14.3 km - 15.2 km,172
+All other timings,15.3 km - 16.2 km,176
+All other timings,16.3 km - 17.2 km,180
+All other timings,17.3 km - 18.2 km,184
+All other timings,18.3 km - 19.2 km,188
+All other timings,19.3 km - 20.2 km,191
+All other timings,20.3 km - 21.2 km,194
+All other timings,21.3 km - 22.2 km,197
+All other timings,22.3 km - 23.2 km,200
+All other timings,23.3km and above,202

@@ -1,0 +1,8 @@
+type,distance,fare
+feeder,,0.43
+trunk,Up to 3.2 km,0.43
+trunk,3.3 km - 4.2 km,0.48
+trunk,4.3 km - 5.2 km,0.53
+trunk,5.3 km - 6.2 km,0.58
+trunk,6.3 km - 7.2 km,0.61
+trunk,over 7.2km,0.64
